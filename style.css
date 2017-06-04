@@ -98,7 +98,7 @@ left:850px;
 width:136px;
 height:131px;
 background-size:136px 131px;
-background:url(/home/home/Desktop/spidertask1/scorecard.png);
+background:url(https://raw.githubusercontent.com/AkshayaKL/spidertask1/master/scorecard.png);
 align:center;
 
 }
@@ -127,5 +127,5 @@ left:100px;
 }
 body
 {
-background:url(/home/home/Desktop/spidertask1/background1.jpg);
+background:url(https://raw.githubusercontent.com/AkshayaKL/spidertask1/master/background1.jpg);
 }
