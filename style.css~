@@ -119,7 +119,7 @@ color:white;
 background-color:black;
 text-align:center;
 font-style:oblique;
-background:rgba(0,0,0,0.3);
+
 
 
 }

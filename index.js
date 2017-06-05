@@ -15,7 +15,7 @@ function clickzz() {
     document.getElementById("randomX2").innerHTML = randomX2;
     document.getElementById("randomX3").innerHTML = randomX3;
 
-    var t = "Play again";
+    var t = "SPIN AGAIN!";
     if (randomX1 === randomX2) {
     if(randomX2 === randomX3)
    { count++;
