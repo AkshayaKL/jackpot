@@ -99,7 +99,7 @@ left:850px;
 width:136px;
 height:131px;
 background-size:136px 131px;
-background:url(/home/home/Desktop/spidertask1/scorecard.png);
+background:url(https://raw.githubusercontent.com/AkshayaKL/spidertask1/master/scorecard.png);
 align:center;
 
 }
@@ -130,5 +130,7 @@ left:100px;
 }
 body
 {
-background:url(/home/home/Desktop/spidertask1/background.jpg);
+
+background:url(https://www.colourbox.com/preview/2736779-casino-roulette-in-water-and-fire-isolated-on-black-background.jpg);
+
 }
