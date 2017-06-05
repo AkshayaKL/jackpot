@@ -4,8 +4,9 @@
 
 <head>
   
+  
   <title>Slotmachine</title>
- <meta name="viewport" content="width=800" />
+ <meta name="viewport" content="width=800, height=2000" />
  <script src='http://use.edgefonts.net/flavors.js'></script>
  
 
