@@ -46,8 +46,8 @@ button {
     position: absolute;
     font-size:20px;
     display: block;
-    background-color: red;
-    color: black;
+    
+    
     border: 2px solid black;
     top:20px;
     left:550px;
@@ -55,20 +55,21 @@ button {
    
     
     height:100px;
-    width:100px;
+    width:200px;
     border-radius:100px; 
 
 
 }
 
 button:hover {
-    background-color: green;
+    background-color: white;
+    color:black;
 }
 
-button.spin-button {
-    color: blue;
-    position: absolute;
-    height: 20%;
+.button {
+    color: black;
+    background-color:#FFA500;
+    
 }
 
 
@@ -114,10 +115,12 @@ height:200px;
 width:200px;
 border-radius:200px;
 font-size:300%;
-color:black;
-background-color:white;
+color:white;
+background-color:black;
 text-align:center;
-line-height:100px;
+font-style:oblique;
+background:rgba(0,0,0,0.3);
+
 
 }
 #mainbox
@@ -127,5 +130,5 @@ left:100px;
 }
 body
 {
-background:url(/home/home/Desktop/spidertask1/background1.jpg);
+background:url(/home/home/Desktop/spidertask1/background.jpg);
 }
