@@ -3,13 +3,12 @@
 <html>
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
   <title>Slotmachine</title>
-<<<<<<< HEAD
+ <meta name="viewport" content="width=800" />
  <script src='http://use.edgefonts.net/flavors.js'></script>
-=======
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
->>>>>>> d858b9d3840d04dd644cb210ec895a59ecc4d269
+ 
+
   <script type="text/javascript" src="index.js"></script>
   <link type="text/css" rel="stylesheet" href="style.css" />
 </head>

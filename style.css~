@@ -134,3 +134,9 @@ body
 background:url(https://www.colourbox.com/preview/2736779-casino-roulette-in-water-and-fire-isolated-on-black-background.jpg);
 
 }
+foot
+{
+position:relative;
+left:300px;
+top:400px;
+}
