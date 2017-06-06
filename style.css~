@@ -95,7 +95,7 @@ display:none;
 #scorecard
 {
 position:relative;
-left:850px;
+left:750px;
 width:136px;
 height:131px;
 background-size:136px 131px;
@@ -138,5 +138,5 @@ foot
 {
 position:relative;
 left:300px;
-top:400px;
+top:300px;
 }

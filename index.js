@@ -52,4 +52,7 @@ counter++;
 
 
 }
-
+function reset()
+{
+document.getElementById("score").innerHTML=0;
+} 

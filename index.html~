@@ -1,47 +1,44 @@
-<!DOCTYPE HTML>
+    <!DOCTYPE HTML>
 
-<html>
+    <html>
 
-<head>
+     <head>
   
   
-  <title>Slotmachine</title>
- <meta name="viewport" content="width=800, height=2000" />
- <script src='http://use.edgefonts.net/flavors.js'></script>
- 
+         <title>Slotmachine</title>
+              <meta name="viewport" content="width=800, height=device-height" />
+                           <script src='http://use.edgefonts.net/flavors.js'></script>
+                                       <script type="text/javascript" src="index.js"></script>
+                                          <link type="text/css" rel="stylesheet" href="style.css" />
+     </head>
 
-  <script type="text/javascript" src="index.js"></script>
-  <link type="text/css" rel="stylesheet" href="style.css" />
-</head>
-
-<body>
+      <body>
   
 
-  <h4 style="text-align:center" id="scorecard"><br><br>score:<div id="score">0</div></h4>
+     <h4 style="text-align:center" id="scorecard"><br><br>score:<div id="score">0</div></h4>
 
-    <h3 style="color:red"><em>Spin to find Your Luck!</em></h3>
+     <h3 style="color:red"><em>Spin to find Your Luck!</em></h3>
 
-    <audio id="audio" src="audioclip.wav" autostart="false"></audio>
-    <button type="button" id="spin-button" class="button" onClick="clickzz()">SPIN</button>
-        <div id="mainbox"> 
-        <div id="slot1" class="slot">
-            <p>  <a id="randomX1">0</a></p>
-        </div>
-        <div id="slot2" class="slot">
-            <p> <a id="randomX2">0</a></p>
-        </div>
-        <div id="slot3" class="slot">
-            <p> <a id="randomX3">0</a></p>
-        </div>
-        </div>
-        </div> 
+     <audio id="audio" src="audioclip.wav" autostart="false"></audio>
+          <button type="button" id="spin-button" class="button" onClick="clickzz()">SPIN</button>
+          <div id="mainbox"> 
+                  <div id="slot1" class="slot">
+                        <p><a id="randomX1">0</a></p>
+                  </div>
+                  <div id="slot2" class="slot">
+                        <p><a id="randomX2">0</a></p>
+                  </div >
+                  <div id="slot3" class="slot">
+                         <p> <a id="randomX3">0</a></p>
+                  </div>
+                  </div>
+                  </div> 
     
 
 
-    <button class="hidden" id="pa" onClick="clickzz()">Test</button>
+           <button class="hidden" id="pa" onClick="clickzz()">Test</button>
+        <foot><a href="https://akshayakl.github.io/intro/"> <img src="home.png"></a><a href="https://akshayakl.github.io/jack                potslotmachine/"><img src="picslot.png"></a><a id="reset" onclick=reset()><img src="reset.jpg">  </a></foot>
+       </body>
 
-<foot><a href="https://akshayakl.github.io/intro/"> <img src="home.png">  </a></foot>
-</body>
-
-</html>
+      </html>
 
