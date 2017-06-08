@@ -42,7 +42,7 @@ var x=Math.floor(Math.random() * 10);
 var j=Math.floor(Math.random() * 10);
 document.getElementById("randomX1").innerHTML = t;
 document.getElementById("randomX2").innerHTML = x;
-document.getElementById("randomX1").innerHTML = j;
+document.getElementById("randomX3").innerHTML = j;
 
 if(counter<=20)
 {requestAnimationFrame(swap);
